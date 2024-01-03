@@ -1,0 +1,13 @@
+import random
+
+data_science_info = [
+  "Linear regression is an algorithm",
+  "train algorithm=to find patterns in data", 
+  "dependent/target variable. Is the independent variable/feature influencing the dependent/target variable?",
+    
+    
+    
+               
+                  ]
+
+print(random.choice(data_science_info))
